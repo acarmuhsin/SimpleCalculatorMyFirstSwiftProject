@@ -1,1 +1,1 @@
-# IOS03-SimpleCalculator
+SimpleCalculator
