@@ -68,7 +68,7 @@ class ViewController: UIViewController {
         }
         else
         {
-            resultLabel.text = "0 a bolunemez"
+            resultLabel.text = "Any number cannot be divided by zero."
         }
     }
 }
